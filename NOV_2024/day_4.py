@@ -1,3 +1,7 @@
+# Question: https://leetcode.com/problems/string-compression-iii/description/?envType=daily-question&envId=2024-11-04
+# 3163. String Compression III
+# Time: O(n)
+# Space: O(1)
 class Solution:
     def compressedString(self, word: str) -> str:
         comp = ""

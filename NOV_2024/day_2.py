@@ -1,3 +1,7 @@
+# Question: https://leetcode.com/problems/circular-sentence/description/?envType=daily-question&envId=2024-11-02
+# 2490. Circular Sentence
+# Time: O(n)
+# Space: O(1)
 class Solution:
     def isCircularSentence(self, sentence: str) -> bool:
         words = sentence.split()
