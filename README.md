@@ -8,38 +8,38 @@ Welcome to the **LeetCode Daily Problem Solutions** repository! This repository 
 - Each solution file within these folders is named as `day_number.py`, corresponding to the day of the month.
 
 **Example Structure:**
-- October_2023/
-    -day_1.py
-    -day_2.py
-...
-- November_2023/
+- JAN_2024/
     - day_1.py
-    -day_2.py
+    - day_2.py
+...
+- FEB_2024/
+    - day_1.py
+    - day_2.py
 ...
 
 ## How to Use
 
 1. **Clone the Repository**
 
-   ```git clone https://github.com/ICrimsonCodes/leetcode.git```
+    ```git clone https://github.com/ICrimsonCodes/leetcode.git```
    
 2. **Navigate to the Desired Month**
 
-  ```cd MonthName_Year```
+    ```cd MonthName_Year```
 
 3. **Run a Solution**
-``` python day_number.py```
+    ``` python day_number.py```
 
 ## Solutions Index
 ### NOV_2024
-  day_1
-  day_2
-  day_3
+- day_1
+- day_2
+- day_3
 ...continues for each day of the month...
 ### DEC_2024
-  day_1
-  day_2
-  day_3
+- day_1
+- day_2
+- day_3
 ...and so on...
 (The list will be updated daily as new solutions are added.)
 
@@ -49,8 +49,10 @@ Contributions are welcome! If you have a better solution or find an issue, feel 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-Email: ICrimsonCodes@outlook.com
-GitHub:ICrimsonCodes
+## Contact
+
+**Email:** ICrimsonCodes@outlook.com  
+**GitHub:** [ICrimsonCodes](https://github.com/ICrimsonCodes)
+
 
 Happy Coding!
